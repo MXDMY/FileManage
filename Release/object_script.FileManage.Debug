@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\progressdialog.o
+./debug\fmfilesystemmodel.o
+./debug\fmfilesystemcopythread.o
+./debug\fmfilesystemdelthread.o
+./debug\fmlistview.o
+./debug\qrc_proj.o
+./debug\moc_mainwindow.o
+./debug\moc_progressdialog.o
+./debug\moc_fmfilesystemmodel.o
+./debug\moc_fmfilesystemcopythread.o
+./debug\moc_fmfilesystemdelthread.o
+./debug\moc_fmlistview.o
+);

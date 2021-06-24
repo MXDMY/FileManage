@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>copy.png</file>
+        <file>del.png</file>
+        <file>paste.png</file>
+        <file>update.png</file>
+        <file>showInExplorer.png</file>
+        <file>rename.png</file>
+        <file>add.png</file>
+        <file>back.png</file>
+        <file>windowIcon.png</file>
+        <file>remove.png</file>
+        <file>sizeColumn.png</file>
+        <file>sizeColumnGrey.png</file>
+        <file>typeColumn.png</file>
+        <file>typeColumnGrey.png</file>
+        <file>modifyTimeColumn.png</file>
+        <file>modifyTimeColumnGrey.png</file>
+    </qresource>
+</RCC>
